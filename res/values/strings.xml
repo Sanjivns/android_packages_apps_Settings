@@ -13818,4 +13818,9 @@
     <!-- Circle to search -->
     <string name="search_all_entrypoints_enabled_title">Circle to search</string>
     <string name="search_all_entrypoints_enabled_summary">Use CTS instead of lens for navbar long press</string>
+
+    <!-- PA maintainer -->
+    <string name="maintainer">Maintainer</string>
+    <string name="aospa_maintainer" translatable="false">ꜱᴀɴᴊɪ | サンジ</string>
+
 </resources>
